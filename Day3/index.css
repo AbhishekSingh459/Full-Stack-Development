@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+}
+#Video_Gallery{
+    color: orange;
+    text-align: center;
+    font-size: 40px;
+    background-color: aqua;
+}
+td{
+    text-align: center;
+}
+#row1{
+    background-color: cornsilk;
+}
+#row2{
+    background-color: rgb(212, 157, 181);
+}
+#row3{
+    background-color: rgb(177, 218, 237);
+}
+
