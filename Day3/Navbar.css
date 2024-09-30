@@ -1,0 +1,50 @@
+.fcontainer{
+    display: flex;
+}
+.fitem{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+    border: 12px solid green;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .heading{
+    background-color: brown;
+    font-size: 50px;
+}
+
+#heading1{
+    color: blue;
+    font-size: 50px;
+}
+
+#heading2{
+    color: black;
+    font-size: 50px;
+}
+div>p{
+    font-size: 25px;
+    background-color: aquamarine;
+} */
