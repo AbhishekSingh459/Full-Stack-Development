@@ -1,0 +1,20 @@
+.CounterApp{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(114, 237, 237);
+}
+#header{
+    text-align: center;
+    font-size: 60px;
+}
+.btn{
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0px 30px 30px 30px;
+}
